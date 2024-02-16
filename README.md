@@ -1,1 +1,1 @@
-# lol_statistic
+Приложения для сбора и анализа статистики игр для league of legends
